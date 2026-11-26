@@ -20,7 +20,7 @@ Loaded the cleaned 99,493 rows into PostgreSQL to query high-risk cohorts:
 - **Diagnosis:** Congestive Heart Failure (ICD-9: 428) had the highest readmission rate among top diagnoses (46.5%).
 
 ## Dashboard (Tableau)
-[Insert your correct Dashboard Link here]
+https://public.tableau.com/app/profile/irene.peter.okon/viz/HospitalReadmissionRiskFactors/Dashboard1#1
 
 ## Recommendation
 The hospital should implement a targeted post-discharge follow-up program for:
